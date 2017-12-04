@@ -1,6 +1,6 @@
 # Donkey Car notebooks
 
-These are notebooks to help explain some of the topics to make [Donkey Car] drive its self. 
+These are notebooks to help explain some of the topics to make [Donkey Car](http://donkeycar.com) drive autonomously. 
 
 
 
