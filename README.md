@@ -10,5 +10,5 @@ These are notebooks to help explain some of the topics to make [Donkey Car] driv
 
 
 ### Lane finding
-* [camera calibration](./notebooks/camera_calibration.ipynb)
+* [camera calibration](./notebooks/calibrate_camera.ipynb)
 * [perspective transform (birdseye)](./notebooks/perspective_transform.ipynb)
